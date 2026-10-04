@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Tarea Tema 3</string>
+    <string name="app_name">Task Topic 3</string>
+    <string name="boton_1">Continue</string>
+    <string name="boton_2">Cancel</string>
 </resources>
