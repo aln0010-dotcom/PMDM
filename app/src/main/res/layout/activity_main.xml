@@ -29,7 +29,9 @@
         app:layout_constraintBottom_toTopOf="@+id/btnBoton2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tvNombre" />
+        app:layout_constraintTop_toBottomOf="@+id/tvNombre"
+        app:backgroundTint = "@color/green"/>
+
 
     <Button
         android:id="@+id/btnBoton2"
@@ -40,6 +42,8 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnBoton1" />
+        app:layout_constraintTop_toBottomOf="@+id/btnBoton1"
+        app:backgroundTint = "@color/red"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
