@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" >Tarea Tema 3</string>
+    <string name="nombre_apellidos" translatable="false">Armando López Nievas</string>
+    <string name="boton_1" translatable="false">Continuar</string>
+    <string name="boton_2" translatable="false">Cancelar</string>
+
+</resources>
